@@ -1,4 +1,4 @@
-# h1 Real-time-Search
+# Real-time-Search
 
 Open Web link =https://real-time-search-12.netlify.app/
 
